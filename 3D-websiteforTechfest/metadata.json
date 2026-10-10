@@ -1,0 +1,8 @@
+{
+  "name": "Remix Techfest IIT Bombay - 3D Cyber City",
+  "description": "Interactive 3D cyberpunk website for Techfest IIT Bombay featuring immersive booth exploration, 3D scroll animations, and developer portfolio by Madhav Agrawal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
